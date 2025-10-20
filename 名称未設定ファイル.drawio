@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1960" dy="3665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1570" dy="3449" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -427,7 +427,7 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-203" value="投資信託" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="3074" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-205" value="本人確認" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-205" value="確認事項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="605.5" y="3293" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-206" value="コンプラ投資勧誘" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
@@ -438,6 +438,18 @@
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-207" value="受注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="392" y="3293" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-209" value="内部者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="439" y="-1832" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-210" value="反社会的勢力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="-1725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-211" value="初心者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="-1633" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-212" value="本人確認、取引種類、銘柄、数量などを確認" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="3284" width="403" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
