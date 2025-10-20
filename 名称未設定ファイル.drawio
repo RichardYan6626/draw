@@ -10,8 +10,89 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-1" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="187" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="eBsOsrl3Z8P0XOdV9Z9q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="eBsOsrl3Z8P0XOdV9Z9q-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="534" y="217" />
+              <mxPoint x="534" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="eBsOsrl3Z8P0XOdV9Z9q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-2" value="投資信託" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="382" y="187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-4" target="eBsOsrl3Z8P0XOdV9Z9q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-4" value="約定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-6" target="eBsOsrl3Z8P0XOdV9Z9q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-6" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="566" y="310.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-8" value="売り / 買い、銘柄名、約定単価、数量、受渡金額、(源泉徴収税額)を確認したか" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="187" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-10" value="①有効期限内の目論見書を顧客が保有していることを確認&lt;div&gt;②商品概要/リスク説明、費用(前日基準価格に基づく実額)説明&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;③単に「はい」ではなく質問などして顧客の理解度確認&lt;/span&gt;&lt;/div&gt;&lt;div&gt;④受注内容（売り買いの別、銘柄名（コース名）、数量、預かり区分（NISA/特定/一般）、受渡日、受渡方法、前日基準価格、概算受渡金額）の網羅確認&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="748" y="273" width="348" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-13" target="eBsOsrl3Z8P0XOdV9Z9q-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-13" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="476.5" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-15" value="①商品概要の確認&lt;br&gt;②解約手数料/信託財産留保額などの説明&lt;br&gt;③損益・税金説明&lt;div&gt;④顧客理解度を図る質問&lt;div&gt;⑤受注内容（売り買いの別&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;銘柄名（コース名）、数量、預かり区分（NISA/特定/一般）、受渡日、受渡方法、前日基準価格、概算受渡金額）の網羅確認&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="759" y="450" width="352" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-17" target="eBsOsrl3Z8P0XOdV9Z9q-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-17" target="eBsOsrl3Z8P0XOdV9Z9q-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-17" value="債券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="656" width="105" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="686" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-18" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="656" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="784" y="858" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-19" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="828" width="124" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-20" value="1) 外国証券情報が必要な銘柄の場合、交付していることを確認&lt;div&gt;2) 商品概要、リスク、満期日の説明、途中売却について等の説明&lt;/div&gt;&lt;div&gt;3) 為替手数料の説明(手数料率、金額)&lt;/div&gt;&lt;div&gt;4) 外貨預りがあるにもかかわらず円貨決済していないか。その場合、①外貨預り説明②円貨決済の無用コスト③それでも円貨決済意向確認④承認車の承認経緯に問題はなかったか&lt;/div&gt;&lt;div&gt;5) 受注内容【売り / 買い、銘柄名、数量、単価、為替、決済通貨、為替手数料、受渡方法、受渡金額(外貨 ・ 円貨)】&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="788" y="604" width="457" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-23" value="①商品概要確認&lt;div&gt;②為替手数料説明(手数料率、金額)&lt;/div&gt;&lt;div&gt;③損益状況(損失金額)、償還まで持った場合との比較&lt;/div&gt;&lt;div&gt;④受注内容【売り / 買い、銘柄名、数量、単価、為替、決済通貨、為替手数料、受渡方法、受渡金額(外貨 ・ 円貨)】の確認&lt;/div&gt;&lt;div&gt;⑤(源泉徴収顧客)利益の場合は外貨決済の時も税金は円貨で徴収される旨。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="784" y="809" width="475" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-26" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="852" y="154" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-27" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="997" y="241" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-28" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1018" y="420" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
