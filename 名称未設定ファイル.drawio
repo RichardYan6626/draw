@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2480" dy="3953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1960" dy="3665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -80,19 +80,10 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-23" value="①商品概要確認&lt;div&gt;②為替手数料説明(手数料率、金額)&lt;/div&gt;&lt;div&gt;③損益状況(損失金額)、償還まで持った場合との比較&lt;/div&gt;&lt;div&gt;④受注内容【売り / 買い、銘柄名、数量、単価、為替、決済通貨、為替手数料、受渡方法、受渡金額(外貨 ・ 円貨)】の確認&lt;/div&gt;&lt;div&gt;⑤(源泉徴収顧客)利益の場合は外貨決済の時も税金は円貨で徴収される旨。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="761.5" y="892" width="475" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-26" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="164" width="99" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-27" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1034.5" y="275" width="99" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-28" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="465" width="99" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-29" target="eBsOsrl3Z8P0XOdV9Z9q-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-29" value="乗り換え勧誘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-29" value="乗り換え" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="-76" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-34" value="①乗換勧誘を行おうとする顧客の『ご投資の方針』が正しく把握されているか、適合性ランクに即した勧誘であるか&lt;br&gt;②『投資信託乗換事前承認申請書』の内容確認はもちろんのこと、顧客面談や「顧客カード」「接触履歴」「取引記録」「損益状況」等により顧客属性・状況を把握したうえで、【乗換勧誘を行う理由】【乗換の合理性】が適切か、また顧客の利益を考慮せず手数料獲得のみを目的とするなど安易な乗換提案ではないか&lt;br&gt;③承認後、営業員が勧誘するにあたっては、換金する投信、購入する投信の「重要事項」および「その他顧客の投資判断に影響を及ぼすもの」等適切な商品説明ができているか&lt;br&gt;④顧客の理解度は十分か。今までの一連の取引における顧客の理解度を通話録音や面談により確認し、その事実をもとに理解度を確認しているか&lt;br&gt;⑤売却する投信のデメリットのみならずメリットを（個人的な偏りはなく、数値などを使って）客観的に説明し、顧客の投資判断を問う勧誘姿勢であったか。特に換金する投信のメリットと購入する投信のメリットが客観的に比較され、顧客が納得できる勧誘態勢であったか&lt;br&gt;⑥乗換勧誘する根拠が明確になっているか。（乗換の合理性および取引の必要性）&lt;br&gt;⑦短期売却、同一カテゴリー間乗換ではないか。その場合のチェックや合理性は十分か&lt;br&gt;⑧同一扱者による同一期間、同一銘柄の乗換勧誘について、それぞれに勧誘の根拠が明確になっているか。&lt;br&gt;⑨換金する投信が部分換金の勧誘となる場合、部分換金勧誘の根拠が明確になっているか&lt;br&gt;⑩申請 → 承認 → 勧誘 のルール通りに運用されているか&lt;br&gt;⑪部店長による面談や承認の内容、証跡は適切か。&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -119,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;商品&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-43" y="133" width="227" height="168" as="geometry" />
+          <mxGeometry x="-78" y="133" width="227" height="168" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="eBsOsrl3Z8P0XOdV9Z9q-43">
           <mxGeometry relative="1" as="geometry" />
@@ -170,10 +161,10 @@
           <mxGeometry x="1036" y="-2493" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-66" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;営業員の禁止事項&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="43" y="1877" width="255" height="176" as="geometry" />
+          <mxGeometry x="48" y="3686" width="255" height="176" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-68" value="コンプライアンス" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="665" y="1857" width="133" height="30" as="geometry" />
+          <mxGeometry x="770" y="3732" width="133" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-73" target="eBsOsrl3Z8P0XOdV9Z9q-74">
           <mxGeometry relative="1" as="geometry" />
@@ -182,7 +173,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-73" value="株式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="-826" width="120" height="60" as="geometry" />
+          <mxGeometry x="316" y="-1137" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-74" target="eBsOsrl3Z8P0XOdV9Z9q-85">
           <mxGeometry relative="1" as="geometry" />
@@ -197,7 +188,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-74" value="国内株" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="522.5" y="-933" width="114" height="73" as="geometry" />
+          <mxGeometry x="514.5" y="-1244" width="114" height="73" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="eBsOsrl3Z8P0XOdV9Z9q-85">
           <mxGeometry relative="1" as="geometry" />
@@ -212,34 +203,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-75" value="外国株" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="-729" width="120" height="60" as="geometry" />
+          <mxGeometry x="517" y="-1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-83" value="①買付提案理由が「安いから」「儲かるから」など、根拠に欠けるものになっていますか&lt;br&gt;②売却提案理由が「上がってきたから」「利益になったから」など、具体的な根拠に欠けるものになっていますか&lt;br&gt;③顧客の利益が往復手数料より少ない&lt;br&gt;④NISA枠を利用するか未確認&lt;br&gt;⑤勧誘であるにもかかわらず『非勧誘』であるように装う（非勧誘の定義:【銘柄名】【数量】【価格】全てにおいて顧客から指定があったもの。）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1097" y="-903.5" width="343" height="165" as="geometry" />
+          <mxGeometry x="1089" y="-1214.5" width="343" height="165" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-84" value="モニタリング・不備が多い事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1269" y="-930" width="186" height="41" as="geometry" />
+          <mxGeometry x="1261" y="-1241" width="186" height="41" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-85" target="eBsOsrl3Z8P0XOdV9Z9q-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-85" value="不備が多い事項" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="-851" width="126" height="60" as="geometry" />
+          <mxGeometry x="795" y="-1162" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-88" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482" y="1865" width="120" height="60" as="geometry" />
+          <mxGeometry x="587" y="3740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491" y="1975" width="120" height="60" as="geometry" />
+          <mxGeometry x="596" y="3850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-90" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="2075" width="120" height="60" as="geometry" />
+          <mxGeometry x="592" y="3950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-91" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487" y="2177" width="120" height="60" as="geometry" />
+          <mxGeometry x="592" y="4052" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="484" y="2271" width="120" height="60" as="geometry" />
+          <mxGeometry x="589" y="4146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-99" target="eBsOsrl3Z8P0XOdV9Z9q-45">
           <mxGeometry relative="1" as="geometry" />
@@ -251,55 +242,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-103" value="約定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="-1246" width="120" height="60" as="geometry" />
+          <mxGeometry x="787" y="-1557" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-104" target="eBsOsrl3Z8P0XOdV9Z9q-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-104" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="793" y="-1101" width="120" height="60" as="geometry" />
+          <mxGeometry x="785" y="-1412" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-105" target="eBsOsrl3Z8P0XOdV9Z9q-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-105" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="795" y="-984" width="120" height="60" as="geometry" />
+          <mxGeometry x="787" y="-1295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-108" value="前提条件" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="665" y="-2009.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-110" value="約定連絡【売り / 買い、銘柄、株数、株価、受渡金額、未済であれば受渡方法】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1037" y="-1246" width="333" height="60" as="geometry" />
+          <mxGeometry x="1029" y="-1557" width="333" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-111" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="-1270" width="156" height="30" as="geometry" />
+          <mxGeometry x="1227" y="-1581" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-114" value="1. 銘柄情報&lt;br&gt;2. 提案理由（勧誘を行った合理的理由）等&lt;br&gt;3. 受注内容 ・銘柄名 ・売り/ 買い ・株数 ・株価（指値/ 成行） ・預り区分（NISA / 特定/ 一般） ・受渡方法（MRF / 銀行振込 等）&lt;br&gt;4. 売却の場合は損益金額" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="-1060" width="371" height="76" as="geometry" />
+          <mxGeometry x="1080" y="-1371" width="371" height="76" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-118" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="-669" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="-980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-119" target="eBsOsrl3Z8P0XOdV9Z9q-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-119" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="-478" width="120" height="60" as="geometry" />
+          <mxGeometry x="795" y="-789" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-122" value="①銘柄の情報等、提案する合理的理由を説明したか。&lt;br&gt;②店頭取引・委託取引の違い、メリット・デメリットについて説明したか。&lt;br&gt;③店頭取引・委託取引、それぞれの概算手数料を説明したか。&lt;br&gt;④店頭取引へ誘導するような発言はないか。&lt;br&gt;⑤(店頭取引の場合)外国証券情報の閲覧依頼&lt;br&gt;⑥外貨預りがあるにもかかわらず円貨決済していないか。その場合、&lt;br&gt;1顧客に外貨預りがある旨を説明したか。&lt;br&gt;2円貨決済では無用なコストがかかることを説明したか。&lt;br&gt;3それでも円貨決済したいという意向を確認したか。&lt;br&gt;受注内容 &lt;br&gt;・銘柄名 ・決済通貨 ・売り/ 買い ・概算手数料（外貨・円貨） &lt;br&gt;・店頭/ 委託 ・概算受渡金額（外貨 ・円貨） ・株数 ・受渡方法 ・株価 ・預り区分（NISA / 特定/ 一般）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="-731" width="381" height="237" as="geometry" />
+          <mxGeometry x="1084" y="-1042" width="381" height="237" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-123" value="約定連絡【売り/ 買い、銘柄名、約定単価、数量、受渡金額、未済であれば受け取り方法、源泉徴収税が発生したら源泉徴収税額】" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1041" y="-373" width="270" height="60" as="geometry" />
+          <mxGeometry x="1033" y="-684" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-125" value="約定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="806" y="-379" width="120" height="60" as="geometry" />
+          <mxGeometry x="798" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-125" target="eBsOsrl3Z8P0XOdV9Z9q-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-128" value="①銘柄の情報等、売却提案する合理的理由を説明したか&lt;br&gt;②店頭取引・委託取引の違い、メリット・デメリットについて説明したか。店頭取引・委託取引、それぞれの概算手数料を説明したか&lt;br&gt;③店頭取引へ誘導するような発言はないか&lt;br&gt;④受注内容（銘柄名、決済通貨、売り/買い、概算手数料（外貨・円貨）、店頭/委託、概算受渡金額（外貨・円貨）、株数、損益金額（外貨・円貨）、株価、受渡方法、預り区分（NISA/特定/一般））。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1522" y="-523.5" width="637" height="151" as="geometry" />
+          <mxGeometry x="1514" y="-834.5" width="637" height="151" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-118" target="eBsOsrl3Z8P0XOdV9Z9q-122">
           <mxGeometry relative="1" as="geometry" />
@@ -324,6 +315,117 @@
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-141" value="①通録内容に齟齬がないか&lt;br&gt;②間違った説明や過不足がないか&lt;br&gt;③ノックインまた株券償還事由が発生したら説明したか&lt;br&gt;④現段階での想定損失額を説明した&lt;br&gt;⑤トラブルの有無・可能性を説明したか" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="828" y="1276.5" width="292" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-145" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;段階&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2117" width="227" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-146" target="eBsOsrl3Z8P0XOdV9Z9q-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-146" value="契約締結" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="2097" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-147" target="eBsOsrl3Z8P0XOdV9Z9q-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-147" target="eBsOsrl3Z8P0XOdV9Z9q-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-147" target="eBsOsrl3Z8P0XOdV9Z9q-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-147" target="eBsOsrl3Z8P0XOdV9Z9q-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-147" target="eBsOsrl3Z8P0XOdV9Z9q-203">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-147" value="勧誘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="2241" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-149" value="金融商品取引契約を締結しようとするときは、あらかじめ一定の事項(契約の概要、手数料およびリスク等)を記載した書面(契約締結前交付書面等)を顧客(特定投資家を除く。)に交付しなければならない。特に、金融商品の取引等の仕組み、性格、リスク、手数料その他の費用 等について顧客に説明し、理解させなければならない" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584" y="2057" width="382" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-150" target="eBsOsrl3Z8P0XOdV9Z9q-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-150" target="eBsOsrl3Z8P0XOdV9Z9q-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-150" target="eBsOsrl3Z8P0XOdV9Z9q-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-150" target="eBsOsrl3Z8P0XOdV9Z9q-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-150" value="説明事項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="2247.5" width="120" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-152" value="&lt;div&gt;金融商品の取引等につ説明と助言を提供したか。&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;また金融商品のリスク等の&lt;/span&gt;&lt;/div&gt;&lt;div&gt;重要事項を説明したか&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="769" y="2232.5" width="242" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-154" value="コンプライアンス・投資勧誘" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="748" y="2033" width="239" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-157" value="公募増資時の空売りに関する規制の通知および説明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="769" y="2334" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eBsOsrl3Z8P0XOdV9Z9q-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668.5" y="2650.966666666667" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eBsOsrl3Z8P0XOdV9Z9q-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668.5" y="2650.966666666667" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-158" value="禁止事項" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="2632" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-159" value="信用取引規制銘柄の信用取引の勧誘を自粛しなければならない" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="2578" width="228.5" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-162" value="店頭有価証券の投資勧誘の禁止" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="2679" width="237.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-163" value="債券の募集、売り出しの際の説明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771" y="2420" width="258" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-164" value="国債の発行日前取引についての説明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="771" y="2498" width="287" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-186" value="&lt;div&gt;外国証券売出し&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;により有価証券を売り付ける場合には、外国証券情報&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;をあらかじめまたは同時に、その相手方に提供しま&lt;/span&gt;&lt;/div&gt;&lt;div&gt;たは公表しなければならない。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="2798" width="346" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-187" target="eBsOsrl3Z8P0XOdV9Z9q-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-187" value="外国証券" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="589" y="2798" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-195" target="eBsOsrl3Z8P0XOdV9Z9q-196">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-195" value="NISA口座開設/NISA利用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="2921" width="147" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-196" value="①NISAに基づく非課税口座の利用に関する事項（一人一口座（一金融機関）のみ開設が認められていること、非課税枠の再利用ができないこと等）を顧客に誤解を与えることのない説明したか&lt;br&gt;②投資知識・経験の乏しい顧客に対しては、中長期投資や分散投資の効果の説明といった、投資に関する基礎的な情報の提供したか" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="814" y="2899" width="375.5" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-200" value="&lt;div&gt;商品特性やリスク特性&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;を説明しなければならない。また、投資信託の手数料については、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;料率及び購入代金に応じた金額、投資&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;信託の保有期間が長期に及ぶほど1年当たりの負担率が逓減していくこと及び購&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;入後に顧客が負担することになる費用&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;、、投資信託の分配金については、&lt;/span&gt;&lt;/div&gt;&lt;div&gt;分配金の一部または全てが元本の一部払戻しに相当する場合があることを説明し顧客が理解したか&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="831" y="3047" width="529" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="eBsOsrl3Z8P0XOdV9Z9q-200">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="3104" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-202" value="コンプライアンス・投資勧誘10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="3017" width="174" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-203" value="投資信託" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="3074" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
