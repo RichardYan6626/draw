@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2480" dy="3953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1501" dy="3411" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -301,8 +301,26 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-118" target="eBsOsrl3Z8P0XOdV9Z9q-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-135" value="仕組債" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="1066" width="120" height="60" as="geometry" />
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-135" target="eBsOsrl3Z8P0XOdV9Z9q-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-135" target="eBsOsrl3Z8P0XOdV9Z9q-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-135" value="複雑な仕組債" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1106.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-136" value="①通録内容に齟齬がないか&lt;div&gt;②間違った説明や過不足がないか&lt;/div&gt;&lt;div&gt;③顧客に適している旨と理由を説明したか&lt;/div&gt;&lt;div&gt;④スプレッド(手数料)と理論価格を顧客に説明し、顧客に質問して理解度を確認したか&lt;/div&gt;&lt;div&gt;⑤重要情報シート末尾に記載された「EB債の過去のリスク・リターン開示」を使用し、過去のリスク・リターンを顧客に説明し、顧客に質問して理解度を確認したか&lt;br&gt;⑥想定損失額の説明はあったか&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="825" y="1046" width="358" height="181" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-138" target="eBsOsrl3Z8P0XOdV9Z9q-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-138" value="アフタフロー" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="1312" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-141" value="①通録内容に齟齬がないか&lt;br&gt;②間違った説明や過不足がないか&lt;br&gt;③ノックインまた株券償還事由が発生したら説明したか&lt;br&gt;④現段階での想定損失額を説明した&lt;br&gt;⑤トラブルの有無・可能性を説明したか" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="828" y="1276.5" width="292" height="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
