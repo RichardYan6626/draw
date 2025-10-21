@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1737" dy="4341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="6640" dy="7060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -122,6 +122,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;商品&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -767,13 +770,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-53" value="新興国通貨建て債券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345.5" y="2869" width="156" height="60" as="geometry" />
+          <mxGeometry x="388" y="2859" width="156" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-54" value="対象顧客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="575" y="2869" width="120" height="60" as="geometry" />
+          <mxGeometry x="617.5" y="2859" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-56" value="①中長期の資産形成を目的とし、大きな元本割れリスクを許容できる&lt;br&gt;②投資する外貨建て債券為替変動リスクや為替スプレッドが大きいことを理解し、そのリスクを許容できる&lt;br&gt;③投資経験や知識が十分であり、自己責任を有している" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="829.25" y="2865" width="209.5" height="103" as="geometry" />
+          <mxGeometry x="871.75" y="2855" width="209.5" height="103" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-54" target="O8i8FWwVBfRqjhGPgMtq-56">
           <mxGeometry relative="1" as="geometry" />
@@ -782,10 +785,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-58" value="説明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="596.75" y="3026" width="103.75" height="60" as="geometry" />
+          <mxGeometry x="639.25" y="3016" width="103.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-59" value="リスク説明：&lt;br&gt;①新興国の経済状況が著しく変動すう可能性&lt;br&gt;②海外からの投資に対する規制導入の可能性&lt;br&gt;③資金移動に関する規制導入の可能性" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="828.25" y="3008.5" width="249.25" height="95" as="geometry" />
+          <mxGeometry x="870.75" y="2998.5" width="249.25" height="95" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-63" target="O8i8FWwVBfRqjhGPgMtq-69">
           <mxGeometry relative="1" as="geometry" />
