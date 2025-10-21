@@ -793,8 +793,14 @@
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-64" value="乗り換え勧誘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="2220" width="205" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-65" target="O8i8FWwVBfRqjhGPgMtq-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-65" value="同一通貨建て債券間" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="936.5" y="2145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-66" target="O8i8FWwVBfRqjhGPgMtq-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-66" value="異なる通貨建て債券間" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="939" y="2293" width="137" height="60" as="geometry" />
@@ -803,10 +809,19 @@
           <mxGeometry x="866.5" y="2023" width="269.5" height="97" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-71" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;①経済合理性について売買双方の利回りを『外国債券利回り計算表』等により確認し説明する&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;②当該利回りを確認し説明する&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1233" y="2122" width="309" height="86" as="geometry" />
+          <mxGeometry x="1236" y="2132" width="309" height="86" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-72" value="①クロスレートを使用しても二重の為替コスタがかかること、及び&lt;span style=&quot;text-align: left;&quot;&gt;『外国債券利回り計算表』等により確認し説明する&lt;br&gt;②当該利回りを確認し説明する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1232" y="2289" width="315" height="72" as="geometry" />
+          <mxGeometry x="1233" y="2287" width="315" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-75" value="受注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="632" y="2436" width="187" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-76" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947.5" y="2422" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-77" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="952" y="2538" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
