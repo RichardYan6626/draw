@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1737" dy="4341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1960" dy="4465" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -86,17 +86,20 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-29" target="eBsOsrl3Z8P0XOdV9Z9q-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-29" target="O8i8FWwVBfRqjhGPgMtq-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-29" value="乗り換え" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="567" y="-76" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-34" value="①乗換勧誘を行おうとする顧客の『ご投資の方針』が正しく把握されているか、適合性ランクに即した勧誘であるか&lt;br&gt;②『投資信託乗換事前承認申請書』の内容確認はもちろんのこと、顧客面談や「顧客カード」「接触履歴」「取引記録」「損益状況」等により顧客属性・状況を把握したうえで、【乗換勧誘を行う理由】【乗換の合理性】が適切か、また顧客の利益を考慮せず手数料獲得のみを目的とするなど安易な乗換提案ではないか&lt;br&gt;③承認後、営業員が勧誘するにあたっては、換金する投信、購入する投信の「重要事項」および「その他顧客の投資判断に影響を及ぼすもの」等適切な商品説明ができているか&lt;br&gt;④顧客の理解度は十分か。今までの一連の取引における顧客の理解度を通話録音や面談により確認し、その事実をもとに理解度を確認しているか&lt;br&gt;⑤売却する投信のデメリットのみならずメリットを（個人的な偏りはなく、数値などを使って）客観的に説明し、顧客の投資判断を問う勧誘姿勢であったか。特に換金する投信のメリットと購入する投信のメリットが客観的に比較され、顧客が納得できる勧誘態勢であったか&lt;br&gt;⑥乗換勧誘する根拠が明確になっているか。（乗換の合理性および取引の必要性）&lt;br&gt;⑦短期売却、同一カテゴリー間乗換ではないか。その場合のチェックや合理性は十分か&lt;br&gt;⑧同一扱者による同一期間、同一銘柄の乗換勧誘について、それぞれに勧誘の根拠が明確になっているか。&lt;br&gt;⑨換金する投信が部分換金の勧誘となる場合、部分換金勧誘の根拠が明確になっているか&lt;br&gt;⑩申請 → 承認 → 勧誘 のルール通りに運用されているか&lt;br&gt;⑪部店長による面談や承認の内容、証跡は適切か。&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="756" y="-238" width="535" height="383" as="geometry" />
+        <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-34" value="①乗換勧誘を行おうとする顧客の『ご投資の方針』が正しく把握されているか、適合性ランクに即した勧誘であるか&lt;br&gt;②『投資信託乗換事前承認申請書』の内容確認はもちろんのこと、顧客面談や「顧客カード」「接触履歴」「取引記録」「損益状況」等により顧客属性・状況を把握したうえで、【乗換勧誘を行う理由】【乗換の合理性】が適切か、また顧客の利益を考慮せず手数料獲得のみを目的とするなど安易な乗換提案ではないか&lt;br&gt;③顧客の理解度は十分か。今までの一連の取引における顧客の理解度を通話録音や面談により確認し、その事実をもとに理解度を確認しているか&lt;br&gt;④投信のメリットが客観的に比較され、顧客が納得できる勧誘態勢であったか&lt;br&gt;⑤申請 → 承認 → 勧誘 のルール通りに運用されているか&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="757.75" y="-59" width="535" height="212" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="eBsOsrl3Z8P0XOdV9Z9q-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-38" value="モニタリング・着眼点：通話で検出できない内容を含めています" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="-264" width="224" height="30" as="geometry" />
+          <mxGeometry x="1076" y="-76" width="224" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="eBsOsrl3Z8P0XOdV9Z9q-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -699,6 +702,18 @@
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-32" value="①20~74歳(75~79は事前承認用)&lt;br&gt;②金融資産30百万以上&lt;br&gt;③リスク商品の取引経験ある&lt;br&gt;④投資方針が「値上がり重視」OR「積極的な値上り益重視」&lt;br&gt;⑤資金は「年金、生活費」、「使途確定金」「退職金」「借入金」ではない" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="845.5" y="1490.5" width="344" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-35" value="①乗り換えの合理性&lt;br&gt;②乗り換えのメリット・デメリット&lt;br&gt;③投資の基本方針、主な投資対象、分配方針など" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1067" y="-248.5" width="227" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-36" value="投信・外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1124" y="-278.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-37" target="O8i8FWwVBfRqjhGPgMtq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-37" value="説明事項" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="769" y="-228" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
