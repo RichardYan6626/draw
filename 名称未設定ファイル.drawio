@@ -475,7 +475,10 @@
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-8" value="店頭デリバティブ類似の複雑な仕組債/投資信託" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="617" y="3535" width="129" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8ZxxIsqje5gLM1Umy3hb-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8ZxxIsqje5gLM1Umy3hb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZxxIsqje5gLM1Umy3hb-10" target="8ZxxIsqje5gLM1Umy3hb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZxxIsqje5gLM1Umy3hb-10" value="安定操作銘柄の売買" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="621.5" y="3724" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8ZxxIsqje5gLM1Umy3hb-11" target="8ZxxIsqje5gLM1Umy3hb-6">
@@ -483,6 +486,9 @@
         </mxCell>
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-11" value="公開買付けが行われている銘柄の買付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="621.5" y="3628" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ZxxIsqje5gLM1Umy3hb-13" value="安定操作取引が行われたことを伝え、顧客が関係者の場合買い付けを受注してはならない" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="934" y="3724" width="441" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
