@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1648" dy="4292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1737" dy="4341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -727,6 +727,15 @@
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-42" value="外貨建て債券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="1702" width="158.5" height="60" as="geometry" />
         </mxCell>
@@ -814,14 +823,35 @@
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-72" value="①クロスレートを使用しても二重の為替コスタがかかること、及び&lt;span style=&quot;text-align: left;&quot;&gt;『外国債券利回り計算表』等により確認し説明する&lt;br&gt;②当該利回りを確認し説明する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1233" y="2287" width="315" height="72" as="geometry" />
         </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-75" target="O8i8FWwVBfRqjhGPgMtq-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-75" target="O8i8FWwVBfRqjhGPgMtq-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-75" value="受注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="632" y="2436" width="187" height="68" as="geometry" />
+          <mxGeometry x="614" y="2501" width="187" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-76" target="O8i8FWwVBfRqjhGPgMtq-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-76" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="947.5" y="2422" width="120" height="60" as="geometry" />
+          <mxGeometry x="947.5" y="2426" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-77" target="O8i8FWwVBfRqjhGPgMtq-84">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-77" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="952" y="2538" width="120" height="60" as="geometry" />
+          <mxGeometry x="947.5" y="2593" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-83" value="①商品概要、リスクの説明&lt;br&gt;②利払い日、経過利息の説明&lt;br&gt;③為替手数料の説明&lt;br&gt;④受注内容など" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="2404.5" width="184" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-84" value="①商品概要確認&lt;br&gt;②為替手数料説明&lt;br&gt;③経過利息の説明&lt;br&gt;④受注内容" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1248.5" y="2571" width="171.5" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-87" value="投信外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="2466" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
