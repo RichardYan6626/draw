@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1737" dy="4341" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="4144" dy="5676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -158,25 +158,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-48" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;口座/預かり区分&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="23" y="-3500" width="252" height="168" as="geometry" />
+          <mxGeometry x="-105" y="-3552" width="252" height="168" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-49" target="eBsOsrl3Z8P0XOdV9Z9q-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-49" value="NISA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="-3446" width="120" height="60" as="geometry" />
+          <mxGeometry x="292" y="-3498" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-50" value="一般口座" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="423" y="-3351" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="-3403" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-54" value="①NISA枠残がある顧客にはNISAを利用するか否か確認しているか&lt;br&gt;②営業員はNISAの内容を正しく理解し、顧客へ説明できているか&lt;br&gt;③新NISAは原則売却勧誘不可。売却勧誘を行う場合は申請し承認を受けることに従ったか" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="626" y="-3458" width="511" height="84" as="geometry" />
+          <mxGeometry x="498" y="-3510" width="511" height="84" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-57" value="特定口座" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="423" y="-3235" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="-3287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-60" value="モニタリング留意点" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1021" y="-3483" width="110" height="30" as="geometry" />
+          <mxGeometry x="893" y="-3535" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-66" target="8ZxxIsqje5gLM1Umy3hb-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -327,6 +327,15 @@
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-141" value="①通録内容に齟齬がないか&lt;br&gt;②間違った説明や過不足がないか&lt;br&gt;③ノックインまた株券償還事由が発生したら説明したか&lt;br&gt;④現段階での想定損失額を説明した&lt;br&gt;⑤トラブルの有無・可能性を説明したか" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="828" y="1276.5" width="292" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-207">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-145" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;段階&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="2117" width="227" height="168" as="geometry" />
