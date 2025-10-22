@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="2480" dy="8353" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1501" dy="7811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -1154,7 +1154,7 @@
           <mxGeometry x="284" y="-3380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-197" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;① 特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;勧誘可能な商品は商品分類【1-A】である。ただし、投資方針『2.利回り・値上り益重視』に該当する顧客へは【2-B(1)】も勧誘可能。また、投資方針『3.値上り益重視』『4.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;積極的値上り益重視』に該当する顧客へは【3-B(1)】も勧誘可能。&lt;/div&gt;&lt;div&gt;②&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「勧誘留意商品」を勧誘する際は、都度『買付事前承認申請書』による上席者の事前承認が必要。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;③承認者となる者は6か月以内の面談等により、適合性や意向等について確認済であることが必須。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="797.38" y="-3266.5" width="321" height="214" as="geometry" />
+          <mxGeometry x="791.5" y="-3269" width="321" height="214" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-201" target="O8i8FWwVBfRqjhGPgMtq-206">
           <mxGeometry relative="1" as="geometry" />
@@ -1169,13 +1169,13 @@
           <mxGeometry x="284" y="-3634.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-204" value="①特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。&lt;br&gt;②勧誘留意商品の取引申請&lt;br&gt;③翌日注文&lt;br&gt;④約定連絡" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="802" y="-3398" width="321" height="100" as="geometry" />
+          <mxGeometry x="803" y="-3400" width="321" height="100" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-206" value="①特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。ただし、外国株式については勧誘不可。&lt;br&gt;②勧誘留意商品の勧誘は原則不可" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="795.75" y="-3531" width="324.5" height="98" as="geometry" />
+          <mxGeometry x="793.38" y="-3533" width="324.5" height="98" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-208" value="全ての商品が勧誘不可" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="789.75" y="-3644" width="336.25" height="83" as="geometry" />
+          <mxGeometry x="791.37" y="-3646" width="336.25" height="83" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-214" target="O8i8FWwVBfRqjhGPgMtq-215">
           <mxGeometry relative="1" as="geometry" />
@@ -1184,7 +1184,7 @@
           <mxGeometry x="283" y="-3748" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-215" value="&lt;div&gt;取引代理人制度を利用する場合、取引代理人となれる条件は下記の通り&lt;/div&gt;&lt;div&gt;1名義人の子供または配偶者または両親&lt;/div&gt;&lt;div&gt;2原則、満20歳以上75歳未満&lt;/div&gt;&lt;div&gt;3名義人と同居&lt;/div&gt;&lt;div&gt;4当社に口座開設をしている&lt;/div&gt;&lt;div&gt;5証券知識や適合性を有している&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="782" y="-3773" width="341" height="114" as="geometry" />
+          <mxGeometry x="785.5" y="-3775" width="341" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
