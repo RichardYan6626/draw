@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1501" dy="7811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2325" dy="8122" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -19,7 +19,7 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="eBsOsrl3Z8P0XOdV9Z9q-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="O8i8FWwVBfRqjhGPgMtq-13">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-2" target="O8i8FWwVBfRqjhGPgMtq-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-2" value="投資信託" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-29" target="eBsOsrl3Z8P0XOdV9Z9q-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-29" target="O8i8FWwVBfRqjhGPgMtq-37">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-29" target="O8i8FWwVBfRqjhGPgMtq-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-29" value="乗り換え" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -115,19 +115,19 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="eBsOsrl3Z8P0XOdV9Z9q-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-27">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-28">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-42">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-53">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-174">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-174" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;商品&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -154,19 +154,19 @@
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="8ZxxIsqje5gLM1Umy3hb-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-193">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-193" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-194">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-194" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-201">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-201" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-202">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-202" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-214">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-218" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-42" target="O8i8FWwVBfRqjhGPgMtq-214" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;顧客属性&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -196,7 +196,7 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-48" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;口座/預かり区分&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-106" y="-4788" width="252" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-49" target="O8i8FWwVBfRqjhGPgMtq-160">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-49" target="O8i8FWwVBfRqjhGPgMtq-160" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-49" value="NISA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -217,7 +217,7 @@
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-66" target="8ZxxIsqje5gLM1Umy3hb-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-66" target="eBsOsrl3Z8P0XOdV9Z9q-90">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-66" target="eBsOsrl3Z8P0XOdV9Z9q-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-66" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;営業員の禁止事項&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -259,7 +259,7 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="eBsOsrl3Z8P0XOdV9Z9q-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="O8i8FWwVBfRqjhGPgMtq-186">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="O8i8FWwVBfRqjhGPgMtq-186" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-75" value="外国株" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -367,13 +367,13 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-141" value="①通録内容に齟齬がないか&lt;br&gt;②間違った説明や過不足がないか&lt;br&gt;③ノックインまた株券償還事由が発生したら説明したか&lt;br&gt;④現段階での想定損失額を説明した&lt;br&gt;⑤トラブルの有無・可能性を説明したか" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="828" y="1276.5" width="292" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-147">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-147" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-207">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-145" target="eBsOsrl3Z8P0XOdV9Z9q-207" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-145" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;段階&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -404,7 +404,7 @@
           <mxGeometry x="351" y="3581" width="123" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-149" value="金融商品取引契約を締結しようとするときは、あらかじめ一定の事項(契約の概要、手数料およびリスク等)を記載した書面(契約締結前交付書面等)を顧客(特定投資家を除く。)に交付しなければならない。特に、金融商品の取引等の仕組み、性格、リスク、手数料その他の費用 等について顧客に説明し、理解させなければならない" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="578" y="3397" width="382" height="140" as="geometry" />
+          <mxGeometry x="714" y="3397" width="382" height="140" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-150" target="eBsOsrl3Z8P0XOdV9Z9q-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -425,7 +425,7 @@
           <mxGeometry x="763" y="3572.5" width="242" height="77" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-154" value="コンプライアンス・投資勧誘" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="759.5" y="3363" width="239" height="30" as="geometry" />
+          <mxGeometry x="857" y="3359" width="239" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-157" value="公募増資時の空売りに関する規制の通知および説明" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="763" y="3674" width="250" height="60" as="geometry" />
@@ -661,529 +661,529 @@
         <mxCell id="8ZxxIsqje5gLM1Umy3hb-68" value="上場会社等の未公表の重要事実を、業務とは関係のない他人に話してはならない" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="513.5" y="5934" width="500" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-1" value="コンプライアンスマニュアル営業員禁止事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-1" value="コンプライアンスマニュアル営業員禁止事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="874.5" y="6110" width="244" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-66" target="eBsOsrl3Z8P0XOdV9Z9q-89">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-66" target="eBsOsrl3Z8P0XOdV9Z9q-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-4" value="コンプライアンスマニュアル不適切行為" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-4" value="コンプライアンスマニュアル不適切行為" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="912.5" y="6248" width="244" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-10" target="O8i8FWwVBfRqjhGPgMtq-11">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-10" target="O8i8FWwVBfRqjhGPgMtq-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;苦情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;苦情&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="74.5" y="6448" width="252" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-11" value="①途中で話を遮らない　②不明点は最後に具体的に問う&lt;br&gt;③&lt;span style=&quot;background-color: transparent;&quot;&gt;顧客の言い分に対し、調査が必要な場合はその旨説明し、期限を切って後日結果&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;報告する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-11" value="①途中で話を遮らない　②不明点は最後に具体的に問う&lt;br&gt;③&lt;span style=&quot;background-color: transparent;&quot;&gt;顧客の言い分に対し、調査が必要な場合はその旨説明し、期限を切って後日結果&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;報告する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="440" y="6486" width="596.5" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-13" target="O8i8FWwVBfRqjhGPgMtq-14">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-13" target="O8i8FWwVBfRqjhGPgMtq-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-13" value="勧誘販売" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-13" value="勧誘販売" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="565" y="-435" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-14" target="O8i8FWwVBfRqjhGPgMtq-17">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-14" target="O8i8FWwVBfRqjhGPgMtq-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-14" target="O8i8FWwVBfRqjhGPgMtq-19">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-14" target="O8i8FWwVBfRqjhGPgMtq-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-14" value="説明＋理解確認" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-14" value="説明＋理解確認" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="778" y="-647" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-15" value="①元本保証はない&lt;br&gt;②預金・金融債・保険契約ではない&lt;br&gt;③預金保険、保険契約者保護基金の対象ではないなど" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-15" value="①元本保証はない&lt;br&gt;②預金・金融債・保険契約ではない&lt;br&gt;③預金保険、保険契約者保護基金の対象ではないなど" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="982.5" y="-678" width="211" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-16" value="投信・外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-16" value="投信・外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1016" y="-704" width="152" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-17" value="購入時手数料、運用管理費用などお客さんが負担する費用の説明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-17" value="購入時手数料、運用管理費用などお客さんが負担する費用の説明" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="979" y="-560" width="213" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-19" target="O8i8FWwVBfRqjhGPgMtq-23">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-19" target="O8i8FWwVBfRqjhGPgMtq-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-19" value="リピータ顧客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-19" value="リピータ顧客" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="986" y="-446.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-14" target="O8i8FWwVBfRqjhGPgMtq-15">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-14" target="O8i8FWwVBfRqjhGPgMtq-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-23" value="相場環境の違い、当該商品の主要リスクについて改めて説明顧客が『十分理解しているため説明は不要』と自発的・明確に申し出た場合のみ説明省略可能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-23" value="相場環境の違い、当該商品の主要リスクについて改めて説明顧客が『十分理解しているため説明は不要』と自発的・明確に申し出た場合のみ説明省略可能" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1274" y="-461" width="424" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-27" target="O8i8FWwVBfRqjhGPgMtq-29">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-27" target="O8i8FWwVBfRqjhGPgMtq-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-27" value="複雑な投資信託（楽天USリート・トリプルエンジン・プラス(レアル)）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-27" value="複雑な投資信託（楽天USリート・トリプルエンジン・プラス(レアル)）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="359" y="1470" width="151" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-28" target="O8i8FWwVBfRqjhGPgMtq-29">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-28" target="O8i8FWwVBfRqjhGPgMtq-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-28" value="レバレッジ投資信託" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-28" value="レバレッジ投資信託" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367" y="1609" width="151" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-29" target="O8i8FWwVBfRqjhGPgMtq-32">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-29" target="O8i8FWwVBfRqjhGPgMtq-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-29" value="勧誘開始基準" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-29" value="勧誘開始基準" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="595" y="1532" width="194" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-32" value="①20~74歳(75~79は事前承認用)&lt;br&gt;②金融資産30百万以上&lt;br&gt;③リスク商品の取引経験ある&lt;br&gt;④投資方針が「値上がり重視」OR「積極的な値上り益重視」&lt;br&gt;⑤資金は「年金、生活費」、「使途確定金」「退職金」「借入金」ではない" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-32" value="①20~74歳(75~79は事前承認用)&lt;br&gt;②金融資産30百万以上&lt;br&gt;③リスク商品の取引経験ある&lt;br&gt;④投資方針が「値上がり重視」OR「積極的な値上り益重視」&lt;br&gt;⑤資金は「年金、生活費」、「使途確定金」「退職金」「借入金」ではない" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="845.5" y="1490.5" width="344" height="143" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-35" value="①乗り換えの合理性&lt;br&gt;②乗り換えのメリット・デメリット&lt;br&gt;③投資の基本方針、主な投資対象、分配方針など" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-35" value="①乗り換えの合理性&lt;br&gt;②乗り換えのメリット・デメリット&lt;br&gt;③投資の基本方針、主な投資対象、分配方針など" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1067" y="-248.5" width="227" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-36" value="投信・外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-36" value="投信・外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1124" y="-278.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-37" target="O8i8FWwVBfRqjhGPgMtq-35">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-37" target="O8i8FWwVBfRqjhGPgMtq-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-37" value="説明事項" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-37" value="説明事項" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="769" y="-228" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-43">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-63">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-64">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-75">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-42" target="O8i8FWwVBfRqjhGPgMtq-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-42" value="外貨建て債券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-42" value="外貨建て債券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367" y="1702" width="158.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-43" target="O8i8FWwVBfRqjhGPgMtq-45">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-43" target="O8i8FWwVBfRqjhGPgMtq-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-43" target="O8i8FWwVBfRqjhGPgMtq-48">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-43" target="O8i8FWwVBfRqjhGPgMtq-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-43" target="O8i8FWwVBfRqjhGPgMtq-50">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-43" target="O8i8FWwVBfRqjhGPgMtq-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-43" value="説明、理解確認" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-43" value="説明、理解確認" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="596.5" y="1702" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-45" value="①価格変動リスク&lt;br&gt;②信用リスク&lt;br&gt;③為替変動リスク&lt;br&gt;④流動性リスク&lt;br&gt;⑤カントリーリスク" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-45" value="①価格変動リスク&lt;br&gt;②信用リスク&lt;br&gt;③為替変動リスク&lt;br&gt;④流動性リスク&lt;br&gt;⑤カントリーリスク" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="866.5" y="1679" width="132" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-48" value="為替手数料：&lt;br&gt;①TTMに対して為替手数料がXX円&lt;br&gt;②新興国通貨の場合、先進国通貨に比べ為替手数料が高い" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-48" value="為替手数料：&lt;br&gt;①TTMに対して為替手数料がXX円&lt;br&gt;②新興国通貨の場合、先進国通貨に比べ為替手数料が高い" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="866" y="1811" width="201" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-50" value="経過利息が発生する場合、必ず顧客へ説明し理解してもらう" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-50" value="経過利息が発生する場合、必ず顧客へ説明し理解してもらう" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="862" y="1928" width="201" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-53" target="O8i8FWwVBfRqjhGPgMtq-54">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-53" target="O8i8FWwVBfRqjhGPgMtq-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-53" target="O8i8FWwVBfRqjhGPgMtq-58">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-53" target="O8i8FWwVBfRqjhGPgMtq-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-53" value="新興国通貨建て債券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-53" value="新興国通貨建て債券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="388" y="2859" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-54" value="対象顧客" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-54" value="対象顧客" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="2859" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-56" value="①中長期の資産形成を目的とし、大きな元本割れリスクを許容できる&lt;br&gt;②投資する外貨建て債券為替変動リスクや為替スプレッドが大きいことを理解し、そのリスクを許容できる&lt;br&gt;③投資経験や知識が十分であり、自己責任を有している" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-56" value="①中長期の資産形成を目的とし、大きな元本割れリスクを許容できる&lt;br&gt;②投資する外貨建て債券為替変動リスクや為替スプレッドが大きいことを理解し、そのリスクを許容できる&lt;br&gt;③投資経験や知識が十分であり、自己責任を有している" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="871.75" y="2855" width="209.5" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-54" target="O8i8FWwVBfRqjhGPgMtq-56">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-54" target="O8i8FWwVBfRqjhGPgMtq-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-58" target="O8i8FWwVBfRqjhGPgMtq-59">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-58" target="O8i8FWwVBfRqjhGPgMtq-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-58" value="説明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-58" value="説明" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="639.25" y="3016" width="103.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-59" value="リスク説明：&lt;br&gt;①新興国の経済状況が著しく変動すう可能性&lt;br&gt;②海外からの投資に対する規制導入の可能性&lt;br&gt;③資金移動に関する規制導入の可能性" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-59" value="リスク説明：&lt;br&gt;①新興国の経済状況が著しく変動すう可能性&lt;br&gt;②海外からの投資に対する規制導入の可能性&lt;br&gt;③資金移動に関する規制導入の可能性" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="870.75" y="2998.5" width="249.25" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-63" target="O8i8FWwVBfRqjhGPgMtq-69">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-63" target="O8i8FWwVBfRqjhGPgMtq-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-63" value="途中売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-63" value="途中売却" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="618.25" y="2040" width="189" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-64" target="O8i8FWwVBfRqjhGPgMtq-65">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-64" target="O8i8FWwVBfRqjhGPgMtq-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-64" target="O8i8FWwVBfRqjhGPgMtq-66">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-64" target="O8i8FWwVBfRqjhGPgMtq-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-64" value="乗り換え勧誘" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-64" value="乗り換え勧誘" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="2220" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-65" target="O8i8FWwVBfRqjhGPgMtq-71">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-65" target="O8i8FWwVBfRqjhGPgMtq-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-65" value="同一通貨建て債券間" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-65" value="同一通貨建て債券間" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="936.5" y="2145" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-66" target="O8i8FWwVBfRqjhGPgMtq-72">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-66" target="O8i8FWwVBfRqjhGPgMtq-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-66" value="異なる通貨建て債券間" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-66" value="異なる通貨建て債券間" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="939" y="2293" width="137" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-69" value="①「外国債券利回り計算表」などにより各々の受け取り金額を確認し説明する&lt;br&gt;②乗り換えで生じる経済効果を説明し、理解を確認" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-69" value="①「外国債券利回り計算表」などにより各々の受け取り金額を確認し説明する&lt;br&gt;②乗り換えで生じる経済効果を説明し、理解を確認" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="866.5" y="2023" width="269.5" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-71" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;①経済合理性について売買双方の利回りを『外国債券利回り計算表』等により確認し説明する&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;②当該利回りを確認し説明する&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-71" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;①経済合理性について売買双方の利回りを『外国債券利回り計算表』等により確認し説明する&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;②当該利回りを確認し説明する&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1236" y="2132" width="309" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-72" value="①クロスレートを使用しても二重の為替コスタがかかること、及び&lt;span style=&quot;text-align: left;&quot;&gt;『外国債券利回り計算表』等により確認し説明する&lt;br&gt;②当該利回りを確認し説明する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-72" value="①クロスレートを使用しても二重の為替コスタがかかること、及び&lt;span style=&quot;text-align: left;&quot;&gt;『外国債券利回り計算表』等により確認し説明する&lt;br&gt;②当該利回りを確認し説明する&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1233" y="2287" width="315" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-75" target="O8i8FWwVBfRqjhGPgMtq-76">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-75" target="O8i8FWwVBfRqjhGPgMtq-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-75" target="O8i8FWwVBfRqjhGPgMtq-77">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-75" target="O8i8FWwVBfRqjhGPgMtq-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-75" value="受注" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-75" value="受注" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="614" y="2501" width="187" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-76" target="O8i8FWwVBfRqjhGPgMtq-83">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-76" target="O8i8FWwVBfRqjhGPgMtq-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-76" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-76" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="2426" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-77" target="O8i8FWwVBfRqjhGPgMtq-84">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-77" target="O8i8FWwVBfRqjhGPgMtq-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-77" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-77" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="2593" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-83" value="①商品概要、リスクの説明&lt;br&gt;②利払い日、経過利息の説明&lt;br&gt;③為替手数料の説明&lt;br&gt;④受注内容など" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-83" value="①商品概要、リスクの説明&lt;br&gt;②利払い日、経過利息の説明&lt;br&gt;③為替手数料の説明&lt;br&gt;④受注内容など" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1240" y="2404.5" width="184" height="103" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-84" value="①商品概要確認&lt;br&gt;②為替手数料説明&lt;br&gt;③経過利息の説明&lt;br&gt;④受注内容" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-84" value="①商品概要確認&lt;br&gt;②為替手数料説明&lt;br&gt;③経過利息の説明&lt;br&gt;④受注内容" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1248.5" y="2571" width="171.5" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-87" value="投信外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-87" value="投信外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="646" y="2466" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-90">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-91">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-95">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-94">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-94" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-98">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-98" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-97">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-97" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-99">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-100">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-102">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-102" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-101">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-103">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-104">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-89" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;投資方針、リスク区分&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-89" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;投資方針、リスク区分&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-169.5" y="-6480" width="252" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-90" target="O8i8FWwVBfRqjhGPgMtq-121">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-90" target="O8i8FWwVBfRqjhGPgMtq-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-90" value="利回り、安定重視、リスク区分A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-90" value="利回り、安定重視、リスク区分A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="238.5" y="-6800" width="219.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-91" target="O8i8FWwVBfRqjhGPgMtq-122">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-91" target="O8i8FWwVBfRqjhGPgMtq-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-91" value="利回り、値上がり益重視、リスク区分B(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-91" value="利回り、値上がり益重視、リスク区分B(1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="228" y="-6662" width="336" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-92" value="株式説明事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-92" value="株式説明事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-154.5" y="-6510" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-94" target="O8i8FWwVBfRqjhGPgMtq-123">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-94" target="O8i8FWwVBfRqjhGPgMtq-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-94" value="利回り、値上がり益重視、リスク区分B(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-94" value="利回り、値上がり益重視、リスク区分B(2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="233.5" y="-6556" width="336" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-95" target="O8i8FWwVBfRqjhGPgMtq-124">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-95" target="O8i8FWwVBfRqjhGPgMtq-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-95" value="利回り、値上がり益重視、リスク区分B(3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-95" value="利回り、値上がり益重視、リスク区分B(3)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="241" y="-6426" width="336" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-97" target="O8i8FWwVBfRqjhGPgMtq-126">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-97" target="O8i8FWwVBfRqjhGPgMtq-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-97" value="利回り、値上がり益重視、リスク区分D(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-97" value="利回り、値上がり益重視、リスク区分D(1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="238.5" y="-6158" width="336" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-98" target="O8i8FWwVBfRqjhGPgMtq-125">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-98" target="O8i8FWwVBfRqjhGPgMtq-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-98" value="利回り、値上がり益重視、リスク区分C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-98" value="利回り、値上がり益重視、リスク区分C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="231.5" y="-6297" width="336" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-99" target="O8i8FWwVBfRqjhGPgMtq-127">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-99" target="O8i8FWwVBfRqjhGPgMtq-127" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-99" value="利回り、値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-99" value="利回り、値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="-6034" width="336" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-100" target="O8i8FWwVBfRqjhGPgMtq-132">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-100" target="O8i8FWwVBfRqjhGPgMtq-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-100" value="値上がり益重視、リスク区分B(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-100" value="値上がり益重視、リスク区分B(1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254.5" y="-5900" width="322" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-101" target="O8i8FWwVBfRqjhGPgMtq-133">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-101" target="O8i8FWwVBfRqjhGPgMtq-133" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-101" value="値上がり益重視、リスク区分C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-101" value="値上がり益重視、リスク区分C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="244.75" y="-5762" width="340.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-102" target="O8i8FWwVBfRqjhGPgMtq-134">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-102" target="O8i8FWwVBfRqjhGPgMtq-134" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-102" value="値上がり益重視、リスク区分D(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-102" value="値上がり益重視、リスク区分D(1)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="248" y="-5647" width="334" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-103" target="O8i8FWwVBfRqjhGPgMtq-135">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-103" target="O8i8FWwVBfRqjhGPgMtq-135" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-103" value="値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-103" value="値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="254" y="-5533" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-104" target="O8i8FWwVBfRqjhGPgMtq-136">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-104" target="O8i8FWwVBfRqjhGPgMtq-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-104" value="積極的値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-104" value="積極的値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="251" y="-5415" width="338" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-105" value="**積極的**値上がり益重視と値上がり重視の区別？" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-105" value="**積極的**値上がり益重視と値上がり重視の区別？" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-191" y="-6536" width="291" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-121" value="&amp;nbsp;MRF 、MMFなど" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-121" value="&amp;nbsp;MRF 、MMFなど" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706" y="-6809" width="173" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-122" value="インデックス投信、国内上場証券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-122" value="インデックス投信、国内上場証券" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="699.75" y="-6671" width="218.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-123" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-123" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-123" value="&lt;div&gt;非投資適格債、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;新興国通貨建債、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;投信&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-123" value="&lt;div&gt;非投資適格債、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;新興国通貨建債、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;投信&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="712.5" y="-6561.5" width="208.5" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-124" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-124" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-124" value="&lt;div&gt;劣後債、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通貨選択型投信、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TLAC債&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-124" value="&lt;div&gt;劣後債、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;通貨選択型投信、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;TLAC債&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="-6435" width="229" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-125" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-125" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-125" value="&lt;div&gt;店頭デリバティブ取引&lt;/div&gt;&lt;div&gt;に類する複雑な仕組債&lt;/div&gt;&lt;div&gt;以外の仕組債&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-125" value="&lt;div&gt;店頭デリバティブ取引&lt;/div&gt;&lt;div&gt;に類する複雑な仕組債&lt;/div&gt;&lt;div&gt;以外の仕組債&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706" y="-6306" width="242.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-126" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-126" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-126" value="&lt;div&gt;①店頭デリバティブ取引&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;に類する複雑な仕組債、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;投資信託（部分的に元本が保証されるもの）&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;②EB債等(EB債、リンク&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;債)については非勧誘&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-126" value="&lt;div&gt;①店頭デリバティブ取引&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;に類する複雑な仕組債、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;投資信託（部分的に元本が保証されるもの）&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;②EB債等(EB債、リンク&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;債)については非勧誘&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="714" y="-6167" width="347" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-127" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-127" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-127" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;①店頭デリバティブ取引&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;に類する複雑な仕組債、&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;投資信託&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;②EB債等(EB債、リンク&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;債)については非勧誘&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-127" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;①店頭デリバティブ取引&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;に類する複雑な仕組債、&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;投資信託&lt;br style=&quot;forced-color-adjust: none;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;②EB債等(EB債、リンク&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;債)については非勧誘&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="714" y="-6043" width="350" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-132" value="・レバレッジETF・ETN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-132" value="・レバレッジETF・ETN" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720.5" y="-5909" width="249.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-133" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-133" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-133" value="&lt;div&gt;・フェニックス銘柄&lt;/div&gt;&lt;div&gt;・ヘッジ・ファンド&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-133" value="&lt;div&gt;・フェニックス銘柄&lt;/div&gt;&lt;div&gt;・ヘッジ・ファンド&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="726.5" y="-5771" width="249.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-134" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-134" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-134" value="&lt;div&gt;・レバレッジ投信&lt;/div&gt;&lt;div&gt;(ETF・ETNを除く)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-134" value="&lt;div&gt;・レバレッジ投信&lt;/div&gt;&lt;div&gt;(ETF・ETNを除く)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="728.5" y="-5656" width="249.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-135" target="O8i8FWwVBfRqjhGPgMtq-146">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-135" target="O8i8FWwVBfRqjhGPgMtq-146" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-135" value="・レバレッジ仕組債" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-135" value="・レバレッジ仕組債" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="724.75" y="-5542" width="249.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-136" value="&lt;div&gt;・信用取引&lt;/div&gt;&lt;div&gt;・上場先物取引&lt;/div&gt;&lt;div&gt;・上場オプション取引&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-136" value="&lt;div&gt;・信用取引&lt;/div&gt;&lt;div&gt;・上場先物取引&lt;/div&gt;&lt;div&gt;・上場オプション取引&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="732.5" y="-5424" width="249.5" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-146" target="O8i8FWwVBfRqjhGPgMtq-155">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-146" target="O8i8FWwVBfRqjhGPgMtq-155" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-146" value="勧誘留意商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-146" value="勧誘留意商品" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1627" y="-6034" width="204" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-155" value="&lt;div&gt;顧客が75~79歳の場合は『高齢顧客(75~79歳)に対する勧誘事前承認申請書兼面談記録』を、80歳以上の場合は『高齢顧客(80歳以上)に対する面談記録兼受注記録』およ&lt;/div&gt;&lt;div&gt;び『買付指示書』(当日受注のみ)を受入れることが必要。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-155" value="&lt;div&gt;顧客が75~79歳の場合は『高齢顧客(75~79歳)に対する勧誘事前承認申請書兼面談記録』を、80歳以上の場合は『高齢顧客(80歳以上)に対する面談記録兼受注記録』およ&lt;/div&gt;&lt;div&gt;び『買付指示書』(当日受注のみ)を受入れることが必要。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1992" y="-6057.5" width="349" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-49" target="eBsOsrl3Z8P0XOdV9Z9q-54">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-49" target="eBsOsrl3Z8P0XOdV9Z9q-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-160" target="O8i8FWwVBfRqjhGPgMtq-162">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-160" target="O8i8FWwVBfRqjhGPgMtq-162" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-160" target="O8i8FWwVBfRqjhGPgMtq-167">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-160" target="O8i8FWwVBfRqjhGPgMtq-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-160" target="O8i8FWwVBfRqjhGPgMtq-166">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-160" target="O8i8FWwVBfRqjhGPgMtq-166" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-160" value="新NISA口座のチェックリスト" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-160" value="新NISA口座のチェックリスト" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="555.5" y="-4734" width="178.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-162" value="口座開設の留意点：&lt;br&gt;①一人一口座&lt;br&gt;②「株式数比例配分方式」の手続き&lt;br&gt;③非課税投資枠は年間【成長投資枠】240万円、【つみたて投資枠】120万円&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-162" value="口座開設の留意点：&lt;br&gt;①一人一口座&lt;br&gt;②「株式数比例配分方式」の手続き&lt;br&gt;③非課税投資枠は年間【成長投資枠】240万円、【つみたて投資枠】120万円&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="859" y="-4766" width="245.38" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-163" value="利用者に応じて説明" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-163" value="利用者に応じて説明" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="876.5" y="-4810" width="188.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-165" value="株式(ETF、REIT含む)等&lt;br&gt;①&lt;span style=&quot;background-color: transparent;&quot;&gt;NISA残枠がある場合はお客様にお伝えし確認&lt;/span&gt;&lt;div&gt;②提案および買付受注の前に「株式数比例配分方式」の受取方法になっているか確認。&lt;/div&gt;&lt;div&gt;③「株式数比例配分方式」でない場合、上場株式等の配当金であっても、当社を経由して支払われるものでなければその配当金は非課税となりません。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-165" value="株式(ETF、REIT含む)等&lt;br&gt;①&lt;span style=&quot;background-color: transparent;&quot;&gt;NISA残枠がある場合はお客様にお伝えし確認&lt;/span&gt;&lt;div&gt;②提案および買付受注の前に「株式数比例配分方式」の受取方法になっているか確認。&lt;/div&gt;&lt;div&gt;③「株式数比例配分方式」でない場合、上場株式等の配当金であっても、当社を経由して支払われるものでなければその配当金は非課税となりません。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1274" y="-4720" width="328" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-166" value="売却受注時の留意点&lt;br&gt;&lt;div&gt;①原則、売却勧誘は不可。&lt;/div&gt;&lt;div&gt;②売却勧誘を行う場合は申請し承認を受ける。&lt;/div&gt;&lt;div&gt;③NISA口座の保有商品を売却した場合、空いた非課税枠は翌年より年間投資枠の範囲内で再び利用できる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-166" value="売却受注時の留意点&lt;br&gt;&lt;div&gt;①原則、売却勧誘は不可。&lt;/div&gt;&lt;div&gt;②売却勧誘を行う場合は申請し承認を受ける。&lt;/div&gt;&lt;div&gt;③NISA口座の保有商品を売却した場合、空いた非課税枠は翌年より年間投資枠の範囲内で再び利用できる&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="885" y="-4414" width="239" height="141" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-167" target="O8i8FWwVBfRqjhGPgMtq-168">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-167" target="O8i8FWwVBfRqjhGPgMtq-168" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-167" value="&lt;span style=&quot;text-align: left;&quot;&gt;商品提案、買付受注時の留意点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-167" value="&lt;span style=&quot;text-align: left;&quot;&gt;商品提案、買付受注時の留意点&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="878.5" y="-4574" width="183.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-168" value="投資信託&lt;br&gt;&lt;div&gt;①NISA残枠がある場合はお客様にお伝えし確認&lt;/div&gt;&lt;div&gt;②新NISA制度対象銘柄一覧の対象商品であるか確認する。&lt;/div&gt;&lt;div&gt;③手数料を外枠として限度額【成長投資枠】240万円、【つみたて投資枠】120万円(計1,800万円&amp;lt;内、成長投資枠は1,200万円まで)の範囲内で買付が可能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-168" value="投資信託&lt;br&gt;&lt;div&gt;①NISA残枠がある場合はお客様にお伝えし確認&lt;/div&gt;&lt;div&gt;②新NISA制度対象銘柄一覧の対象商品であるか確認する。&lt;/div&gt;&lt;div&gt;③手数料を外枠として限度額【成長投資枠】240万円、【つみたて投資枠】120万円(計1,800万円&amp;lt;内、成長投資枠は1,200万円まで)の範囲内で買付が可能&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1277" y="-4508" width="336" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-167" target="O8i8FWwVBfRqjhGPgMtq-165">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-167" target="O8i8FWwVBfRqjhGPgMtq-165" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-174" target="O8i8FWwVBfRqjhGPgMtq-176">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-174" target="O8i8FWwVBfRqjhGPgMtq-176" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-174" value="IPO/PO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-174" value="IPO/PO" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="326.5" y="-901" width="134.5" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-176" target="O8i8FWwVBfRqjhGPgMtq-180">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-176" target="O8i8FWwVBfRqjhGPgMtq-180" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-176" target="O8i8FWwVBfRqjhGPgMtq-181">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-176" target="O8i8FWwVBfRqjhGPgMtq-181" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-176" value="説明＋理解確認" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-176" value="説明＋理解確認" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="756.75" y="-893" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-180" value="&amp;lt;説明内容&amp;gt;&lt;br&gt;➀改めてブックビルディングを行わずに、仮条件を超える範囲での発行価格の決定の可能性がある事、及びその範囲&lt;br&gt;2改めてブックビルディングを行わずに、売出株数変更の可能性がある事、及びその範囲&lt;br&gt;3上記➀、2の結果は〇月〇日(募集・売出価格及び販売分担株数決定日)以降、東証のホームページ(新規上場会社情報)にて確認できる旨" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-180" value="&amp;lt;説明内容&amp;gt;&lt;br&gt;➀改めてブックビルディングを行わずに、仮条件を超える範囲での発行価格の決定の可能性がある事、及びその範囲&lt;br&gt;2改めてブックビルディングを行わずに、売出株数変更の可能性がある事、及びその範囲&lt;br&gt;3上記➀、2の結果は〇月〇日(募集・売出価格及び販売分担株数決定日)以降、東証のホームページ(新規上場会社情報)にて確認できる旨" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1397" y="-1030" width="345" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-181" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・銘柄名、会社概要 　・ 元本割れ、価格変動リスク&lt;/span&gt;&lt;/div&gt;&lt;div&gt;・IPO・POのスケジュール 　・空売り決済の禁止(PO)&lt;/div&gt;&lt;div&gt;・仮条件 ・抽選結果によっては購入できないこと&lt;/div&gt;&lt;div&gt;・目論見書等の交付方法 ● 手数料(購入対価のみ支払い)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-181" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・銘柄名、会社概要 　・ 元本割れ、価格変動リスク&lt;/span&gt;&lt;/div&gt;&lt;div&gt;・IPO・POのスケジュール 　・空売り決済の禁止(PO)&lt;/div&gt;&lt;div&gt;・仮条件 ・抽選結果によっては購入できないこと&lt;/div&gt;&lt;div&gt;・目論見書等の交付方法 ● 手数料(購入対価のみ支払い)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1397" y="-839" width="362" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-184" value="株式説明事項マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-184" value="株式説明事項マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="366" y="-939" width="144" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-185" value="商品ランク" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="236" y="-6845" width="157" height="30" as="geometry" />
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-185" value="商品ランク" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="216" y="-6836" width="157" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-186" target="O8i8FWwVBfRqjhGPgMtq-188">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-186" target="O8i8FWwVBfRqjhGPgMtq-188" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-186" value="取引の流れ、説明事項" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-186" value="取引の流れ、説明事項" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="717" y="-1354" width="183" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-188" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;①リスク説明&lt;/div&gt;&lt;div&gt;②店頭取引と委託取引の説明&lt;/div&gt;&lt;div&gt;③決済方法・受渡方法の確認&lt;/div&gt;&lt;div&gt;④売却の場合は損益の説明と譲渡益税等の説明&lt;/div&gt;&lt;div&gt;⑤受注内容の確認&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-188" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;①リスク説明&lt;/div&gt;&lt;div&gt;②店頭取引と委託取引の説明&lt;/div&gt;&lt;div&gt;③決済方法・受渡方法の確認&lt;/div&gt;&lt;div&gt;④売却の場合は損益の説明と譲渡益税等の説明&lt;/div&gt;&lt;div&gt;⑤受注内容の確認&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="713.5" y="-1220" width="191" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-189" value="株式説明事項マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-189" value="株式説明事項マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="627" y="-1384" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-193" target="O8i8FWwVBfRqjhGPgMtq-197">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-203" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-193" target="O8i8FWwVBfRqjhGPgMtq-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-193" value="75歳以上80歳未満" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-193" value="75歳以上80歳未満" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="287" y="-3192" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-194" target="O8i8FWwVBfRqjhGPgMtq-204">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-194" target="O8i8FWwVBfRqjhGPgMtq-204" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-194" value="80歳以上85歳未満" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-194" value="80歳以上85歳未満" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="-3380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-197" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;① 特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;勧誘可能な商品は商品分類【1-A】である。ただし、投資方針『2.利回り・値上り益重視』に該当する顧客へは【2-B(1)】も勧誘可能。また、投資方針『3.値上り益重視』『4.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;積極的値上り益重視』に該当する顧客へは【3-B(1)】も勧誘可能。&lt;/div&gt;&lt;div&gt;②&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「勧誘留意商品」を勧誘する際は、都度『買付事前承認申請書』による上席者の事前承認が必要。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;③承認者となる者は6か月以内の面談等により、適合性や意向等について確認済であることが必須。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-197" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;① 特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;勧誘可能な商品は商品分類【1-A】である。ただし、投資方針『2.利回り・値上り益重視』に該当する顧客へは【2-B(1)】も勧誘可能。また、投資方針『3.値上り益重視』『4.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;積極的値上り益重視』に該当する顧客へは【3-B(1)】も勧誘可能。&lt;/div&gt;&lt;div&gt;②&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;「勧誘留意商品」を勧誘する際は、都度『買付事前承認申請書』による上席者の事前承認が必要。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;③承認者となる者は6か月以内の面談等により、適合性や意向等について確認済であることが必須。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="791.5" y="-3269" width="321" height="214" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-201" target="O8i8FWwVBfRqjhGPgMtq-206">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-201" target="O8i8FWwVBfRqjhGPgMtq-206" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-201" value="85歳以上90歳未満" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-201" value="85歳以上90歳未満" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="283" y="-3514" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-202" target="O8i8FWwVBfRqjhGPgMtq-208">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-202" target="O8i8FWwVBfRqjhGPgMtq-208" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-202" value="90歳以上" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-202" value="90歳以上" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="284" y="-3634.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-204" value="①特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。&lt;br&gt;②勧誘留意商品の取引申請&lt;br&gt;③翌日注文&lt;br&gt;④約定連絡" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-204" value="①特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。&lt;br&gt;②勧誘留意商品の取引申請&lt;br&gt;③翌日注文&lt;br&gt;④約定連絡" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="803" y="-3400" width="321" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-206" value="①特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。ただし、外国株式については勧誘不可。&lt;br&gt;②勧誘留意商品の勧誘は原則不可" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-206" value="①特段の手続きなく当社から勧誘できる商品は、原則「勧誘可能商品」のみ。ただし、外国株式については勧誘不可。&lt;br&gt;②勧誘留意商品の勧誘は原則不可" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="793.38" y="-3533" width="324.5" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-208" value="全ての商品が勧誘不可" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-208" value="全ての商品が勧誘不可" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="791.37" y="-3646" width="336.25" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-214" target="O8i8FWwVBfRqjhGPgMtq-215">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="O8i8FWwVBfRqjhGPgMtq-214" target="O8i8FWwVBfRqjhGPgMtq-215" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-214" value="代理人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-214" value="代理人" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="283" y="-3748" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O8i8FWwVBfRqjhGPgMtq-215" value="&lt;div&gt;取引代理人制度を利用する場合、取引代理人となれる条件は下記の通り&lt;/div&gt;&lt;div&gt;1名義人の子供または配偶者または両親&lt;/div&gt;&lt;div&gt;2原則、満20歳以上75歳未満&lt;/div&gt;&lt;div&gt;3名義人と同居&lt;/div&gt;&lt;div&gt;4当社に口座開設をしている&lt;/div&gt;&lt;div&gt;5証券知識や適合性を有している&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-215" value="&lt;div&gt;取引代理人制度を利用する場合、取引代理人となれる条件は下記の通り&lt;/div&gt;&lt;div&gt;1名義人の子供または配偶者または両親&lt;/div&gt;&lt;div&gt;2原則、満20歳以上75歳未満&lt;/div&gt;&lt;div&gt;3名義人と同居&lt;/div&gt;&lt;div&gt;4当社に口座開設をしている&lt;/div&gt;&lt;div&gt;5証券知識や適合性を有している&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="785.5" y="-3775" width="341" height="114" as="geometry" />
         </mxCell>
       </root>
