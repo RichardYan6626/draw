@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="6640" dy="7060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1291" dy="5694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -855,6 +855,117 @@
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-87" value="投信外債マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="646" y="2466" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-89" target="O8i8FWwVBfRqjhGPgMtq-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-89" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;投資方針、リスク区分&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="-4813" width="252" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-90" target="O8i8FWwVBfRqjhGPgMtq-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-90" value="利回り、安定重視、リスク区分A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.5" y="-5133" width="219.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-91" target="O8i8FWwVBfRqjhGPgMtq-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-91" value="利回り、値上がり益重視、リスク区分B(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261" y="-4995" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-92" value="株式説明事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-121.5" y="-4843" width="78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-94" target="O8i8FWwVBfRqjhGPgMtq-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-94" value="利回り、値上がり益重視、リスク区分B(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="-4889" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-95" value="利回り、値上がり益重視、リスク区分B(3)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="274" y="-4759" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-97" value="利回り、値上がり益重視、リスク区分D(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.5" y="-4491" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-98" value="利回り、値上がり益重視、リスク区分C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264.5" y="-4630" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-99" value="利回り、値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="-4367" width="336" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-100" value="値上がり益重視、リスク区分B(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="-4233" width="322" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-101" value="値上がり益重視、リスク区分C" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-4095" width="340.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-102" value="値上がり益重視、リスク区分D(1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="-3978" width="334" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-103" value="値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="-3866" width="338" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-104" value="積極的値上がり益重視、リスク区分D(2)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="308" y="-3748" width="338" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-105" value="**積極的**値上がり益重視と値上がり重視の区別？" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-158" y="-4869" width="291" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-121" value="&amp;nbsp;MRF 、MMFなど" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="739" y="-5142" width="173" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-122" value="インデックス投信、国内上場証券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="732.75" y="-5004" width="218.5" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-123" value="&lt;div&gt;非投資適格債、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;新興国通貨建債、&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;投信&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745.5" y="-4894.5" width="208.5" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-124" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="-4670" width="173" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-125" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="806" y="-4541" width="173" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-126" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="844" y="-4277" width="173" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-127" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="818" y="-4142" width="173" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
