@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" border="50" scale="3" compressed="false" locked="false" version="28.2.7">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1501" dy="7811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1570" dy="7849" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -127,6 +127,9 @@
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-40" target="O8i8FWwVBfRqjhGPgMtq-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;商品&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-358" y="135" width="227" height="168" as="geometry" />
         </mxCell>
@@ -212,7 +215,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-73" value="株式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="313" y="-1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="317" y="-1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-74" target="eBsOsrl3Z8P0XOdV9Z9q-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -227,7 +230,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-74" value="国内株" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="511.5" y="-1687" width="114" height="73" as="geometry" />
+          <mxGeometry x="750.75" y="-1684" width="114" height="73" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="eBsOsrl3Z8P0XOdV9Z9q-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -241,20 +244,23 @@
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="eBsOsrl3Z8P0XOdV9Z9q-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-75" target="O8i8FWwVBfRqjhGPgMtq-186">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-75" value="外国株" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="514" y="-1483" width="120" height="60" as="geometry" />
+          <mxGeometry x="749.25" y="-1483" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-83" value="①買付提案理由が「安いから」「儲かるから」など、根拠に欠けるものになっていますか&lt;br&gt;②売却提案理由が「上がってきたから」「利益になったから」など、具体的な根拠に欠けるものになっていますか&lt;br&gt;③顧客の利益が往復手数料より少ない&lt;br&gt;④NISA枠を利用するか未確認&lt;br&gt;⑤勧誘であるにもかかわらず『非勧誘』であるように装う（非勧誘の定義:【銘柄名】【数量】【価格】全てにおいて顧客から指定があったもの。）" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1086" y="-1657.5" width="343" height="165" as="geometry" />
+          <mxGeometry x="1406.5" y="-1657.5" width="343" height="165" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-84" value="モニタリング・不備が多い事項" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1258" y="-1684" width="186" height="41" as="geometry" />
+          <mxGeometry x="1578.5" y="-1684" width="186" height="41" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-85" target="eBsOsrl3Z8P0XOdV9Z9q-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-85" value="不備が多い事項" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="792" y="-1605" width="126" height="60" as="geometry" />
+          <mxGeometry x="1112.5" y="-1605" width="126" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-89" value="1.虚偽のことを告げること、2.断定的判断の提供、3.無登録の信用格付業者が付与した格付を提供する際の説明義務を履行しないことなど（コンプライアンスマニュアル・営業員禁止事項１ー５９）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="525.5" y="6135" width="476" height="90" as="geometry" />
@@ -272,55 +278,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-103" value="約定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="784" y="-2000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1104.5" y="-2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-104" target="eBsOsrl3Z8P0XOdV9Z9q-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-104" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="782" y="-1855" width="120" height="60" as="geometry" />
+          <mxGeometry x="1102.5" y="-1855" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-105" target="eBsOsrl3Z8P0XOdV9Z9q-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-105" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="784" y="-1738" width="120" height="60" as="geometry" />
+          <mxGeometry x="1104.5" y="-1738" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-108" value="前提条件" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="-2894.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-110" value="約定連絡【売り / 買い、銘柄、株数、株価、受渡金額、未済であれば受渡方法】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1026" y="-2000" width="333" height="60" as="geometry" />
+          <mxGeometry x="1346.5" y="-2000" width="333" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-111" value="モニタリング" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1224" y="-2024" width="156" height="30" as="geometry" />
+          <mxGeometry x="1544.5" y="-2024" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-114" value="1. 銘柄情報&lt;br&gt;2. 提案理由（勧誘を行った合理的理由）等&lt;br&gt;3. 受注内容 ・銘柄名 ・売り/ 買い ・株数 ・株価（指値/ 成行） ・預り区分（NISA / 特定/ 一般） ・受渡方法（MRF / 銀行振込 等）&lt;br&gt;4. 売却の場合は損益金額" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1077" y="-1814" width="371" height="76" as="geometry" />
+          <mxGeometry x="1397.5" y="-1814" width="371" height="76" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-118" value="買付" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="792" y="-1423" width="120" height="60" as="geometry" />
+          <mxGeometry x="1112.5" y="-1423" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-119" target="eBsOsrl3Z8P0XOdV9Z9q-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-119" value="売却" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="792" y="-1232" width="120" height="60" as="geometry" />
+          <mxGeometry x="1112.5" y="-1232" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-122" value="①銘柄の情報等、提案する合理的理由を説明したか。&lt;br&gt;②店頭取引・委託取引の違い、メリット・デメリットについて説明したか。&lt;br&gt;③店頭取引・委託取引、それぞれの概算手数料を説明したか。&lt;br&gt;④店頭取引へ誘導するような発言はないか。&lt;br&gt;⑤(店頭取引の場合)外国証券情報の閲覧依頼&lt;br&gt;⑥外貨預りがあるにもかかわらず円貨決済していないか。その場合、&lt;br&gt;1顧客に外貨預りがある旨を説明したか。&lt;br&gt;2円貨決済では無用なコストがかかることを説明したか。&lt;br&gt;3それでも円貨決済したいという意向を確認したか。&lt;br&gt;受注内容 &lt;br&gt;・銘柄名 ・決済通貨 ・売り/ 買い ・概算手数料（外貨・円貨） &lt;br&gt;・店頭/ 委託 ・概算受渡金額（外貨 ・円貨） ・株数 ・受渡方法 ・株価 ・預り区分（NISA / 特定/ 一般）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1081" y="-1485" width="381" height="237" as="geometry" />
+          <mxGeometry x="1401.5" y="-1485" width="381" height="237" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-123" value="約定連絡【売り/ 買い、銘柄名、約定単価、数量、受渡金額、未済であれば受け取り方法、源泉徴収税が発生したら源泉徴収税額】" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="-1127" width="270" height="60" as="geometry" />
+          <mxGeometry x="1350.5" y="-1127" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-125" value="約定" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="795" y="-1133" width="120" height="60" as="geometry" />
+          <mxGeometry x="1115.5" y="-1133" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.392;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-125" target="eBsOsrl3Z8P0XOdV9Z9q-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-128" value="①銘柄の情報等、売却提案する合理的理由を説明したか&lt;br&gt;②店頭取引・委託取引の違い、メリット・デメリットについて説明したか。店頭取引・委託取引、それぞれの概算手数料を説明したか&lt;br&gt;③店頭取引へ誘導するような発言はないか&lt;br&gt;④受注内容（銘柄名、決済通貨、売り/買い、概算手数料（外貨・円貨）、店頭/委託、概算受渡金額（外貨・円貨）、株数、損益金額（外貨・円貨）、株価、受渡方法、預り区分（NISA/特定/一般））。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="1511" y="-1277.5" width="637" height="151" as="geometry" />
+          <mxGeometry x="1831.5" y="-1277.5" width="637" height="151" as="geometry" />
         </mxCell>
         <mxCell id="eBsOsrl3Z8P0XOdV9Z9q-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.39;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="eBsOsrl3Z8P0XOdV9Z9q-118" target="eBsOsrl3Z8P0XOdV9Z9q-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1080,6 +1086,45 @@
         </mxCell>
         <mxCell id="O8i8FWwVBfRqjhGPgMtq-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-167" target="O8i8FWwVBfRqjhGPgMtq-165">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-174" target="O8i8FWwVBfRqjhGPgMtq-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-174" value="IPO/PO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326.5" y="-901" width="134.5" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-176" target="O8i8FWwVBfRqjhGPgMtq-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-176" target="O8i8FWwVBfRqjhGPgMtq-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-176" value="説明＋理解確認" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="756.75" y="-893" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-180" value="&amp;lt;説明内容&amp;gt;&lt;br&gt;➀改めてブックビルディングを行わずに、仮条件を超える範囲での発行価格の決定の可能性がある事、及びその範囲&lt;br&gt;2改めてブックビルディングを行わずに、売出株数変更の可能性がある事、及びその範囲&lt;br&gt;3上記➀、2の結果は〇月〇日(募集・売出価格及び販売分担株数決定日)以降、東証のホームページ(新規上場会社情報)にて確認できる旨" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="-1030" width="345" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-181" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;・銘柄名、会社概要 　・ 元本割れ、価格変動リスク&lt;/span&gt;&lt;/div&gt;&lt;div&gt;・IPO・POのスケジュール 　・空売り決済の禁止(PO)&lt;/div&gt;&lt;div&gt;・仮条件 ・抽選結果によっては購入できないこと&lt;/div&gt;&lt;div&gt;・目論見書等の交付方法 ● 手数料(購入対価のみ支払い)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1397" y="-839" width="362" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-184" value="株式説明事項マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="366" y="-939" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-185" value="商品ランク" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="236" y="-6845" width="157" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O8i8FWwVBfRqjhGPgMtq-186" target="O8i8FWwVBfRqjhGPgMtq-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-186" value="取引の流れ、説明事項" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717" y="-1354" width="183" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-188" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;①リスク説明&lt;/div&gt;&lt;div&gt;②店頭取引と委託取引の説明&lt;/div&gt;&lt;div&gt;③決済方法・受渡方法の確認&lt;/div&gt;&lt;div&gt;④売却の場合は損益の説明と譲渡益税等の説明&lt;/div&gt;&lt;div&gt;⑤受注内容の確認&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="713.5" y="-1220" width="191" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="O8i8FWwVBfRqjhGPgMtq-189" value="株式説明事項マニュアル" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="627" y="-1384" width="153" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
